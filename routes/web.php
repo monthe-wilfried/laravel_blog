@@ -36,7 +36,9 @@ Route::group(['prefix'=>'{language}'], function(){
     Route::group(['middleware'=>'admin'], function(){
 
         Route::get('/admin', 'AdminController@index')->name('admin.index');
-
+        Route::get('/admin/profile', 'AdminController@profile')->name('admin.profile');
+        Route::get('/admin/profile/edit', 'AdminController@edit')->name('admin.profile.edit');
+        Route::put('/admin/profile/update', 'AdminController@update')->name('admin.profile.update');
     });
 
 

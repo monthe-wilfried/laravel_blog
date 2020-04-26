@@ -10882,9 +10882,8 @@ a.text-dark:focus {
   }
 }
 
-img.img-lang {
-  width: 10px;
-  height: 10px;
-  padding-right: 1px;
+.has-error {
+  color: red;
+  background: red;
 }
 

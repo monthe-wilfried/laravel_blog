@@ -1,12 +1,30 @@
 {
     "Search for...": "Suche nach...",
     "Dashboard": "Armaturenbrett",
+    "Hi,": "Hallo,",
+    "Settings": "Einstellungen",
+
+    "Profile": "Profil",
+    "Picture": "Foto",
+    "Users": "Benutzer",
+    "All Users": "Alle Benutzer",
+    "Create User": "Benutzer erstellen",
+    "User Management": "Benutzerverwaltung",
+    "Email": "E-Mail",
+    "Role": "Rolle",
+    "Edit Profile": "Profil Bearbeiten",
+    "Save": "Speichern",
+    "Back": "Zurück",
 
     "Login": "Anmelden",
+    "Logout": "Abmelden",
     "Register": "Registrieren",
     "Password": "Kennwort",
     "E-Mail Address": "E-Mail-Addresse",
     "Remember Me": "Erinnere mich",
     "Forgot Your Password?": "Kennwort vergessen?",
-    "Confirm Password": "Kennwort bestätigen"
+    "Confirm Password": "Kennwort bestätigen",
+
+    "Please check the form below for errors": "Bitte überprüfen Sie das untenstehende Formular auf Fehler",
+    "Profile updated with success.": "Profil mit Erfolg aktualisiert."
 }
